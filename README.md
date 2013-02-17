@@ -1,0 +1,1 @@
+This package is extracted from [zealoushacker](https://github.com/zealoushacker)'s [meteor](http://github.com/meteor/meteor) fork to add the **accounts-linkedin** package.
